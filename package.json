@@ -1,5 +1,5 @@
 {
-	"name": "word-count",
+	"name": "word-character-count",
 	"version": "0.1.0",
 	"description": "Word and character count from html5 string",
 	"main": "index.js",
@@ -8,6 +8,7 @@
 	},
 	"keywords": [
 		"word-count",
+		"character-count",
 		"medium",
 		"count",
 		"html word count"
@@ -17,5 +18,9 @@
 		"email": "otisidevelop@gmail.com",
 		"url": "https://www.github.com/otisidev"
 	},
-	"license": "MIT"
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://www.github.com/otisidev/word-character-count"
+	}
 }
