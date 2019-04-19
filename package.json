@@ -1,6 +1,6 @@
 {
 	"name": "word-character-count",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Word and character count from html5 string",
 	"main": "index.js",
 	"scripts": {
