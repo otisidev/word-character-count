@@ -11,6 +11,7 @@ Word and character count is a **promise** based function.
 `npm install word-character-count`
 
 **using yarn**
+
 `yarn add word-character-count`
 
 ## Usage
