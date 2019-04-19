@@ -1,0 +1,21 @@
+{
+	"name": "word-count",
+	"version": "0.1.0",
+	"description": "Word and character count from html5 string",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"word-count",
+		"medium",
+		"count",
+		"html word count"
+	],
+	"author": {
+		"name": "Otis Chiemezie",
+		"email": "otisidevelop@gmail.com",
+		"url": "https://www.github.com/otisidev"
+	},
+	"license": "MIT"
+}
