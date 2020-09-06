@@ -8,7 +8,8 @@ exports.WordCount = async htmlString => {
 	if (typeof htmlString !== "string" || htmlString === "") {
 		return {
 			CharacterCount: 0,
-			WordCount: 0
+			WordCount: 0,
+			words: ""
 		};
 	}
 	// remove html whitespace unicode
@@ -37,6 +38,7 @@ exports.WordCount = async htmlString => {
 
 	return {
 		WordCount: length,
-		CharacterCount: character
+		CharacterCount: character,
+		words: htmlString
 	};
 };
