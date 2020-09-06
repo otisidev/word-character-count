@@ -31,7 +31,8 @@ example:
 ```javascript
 result = {
 	CharacterCount: 20,
-	WordCount: 3
+	WordCount: 3,
+	words: "This endpoint works!"
 };
 ```
 
