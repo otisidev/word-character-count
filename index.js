@@ -3,7 +3,7 @@
  * Funtion that gets word and character count from html5 string
  * @param {string} htmlString html5 string
  */
-exports.WordCount = async htmlString => {
+exports.WordCount = htmlString => {
 	// validation
 	if (typeof htmlString !== "string" || htmlString === "") {
 		return {
